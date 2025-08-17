@@ -200,6 +200,5 @@
 // @match         *://esohasl.net/*
 // @match         *://rbscripts.net/*
 // @match         *://link.rbscripts.net/*
-// @require      https://raw.githubusercontent.com/ezz125/ezzuserscript/main/ezzuserscript2.js?nocache=20250817
 // @require      https://raw.githubusercontent.com/ezz125/ezzuserscript/main/ezzuserscript2.js
 // ==/UserScript==
