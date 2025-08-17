@@ -6,6 +6,10 @@
 // @author       you
 // @run-at       document-idle
 // @grant        GM_xmlhttpRequest
+// @grant        GM_setValue
+// @grant        GM_getValue
+// @grant        GM_addStyle
+// @grant        GM_registerMenuCommand
 // @noframes     true
 // @connect      api.bypass.vip
 // @connect      raw.githubusercontent.com
