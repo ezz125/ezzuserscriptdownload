@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ezz premium
 // @namespace    premium
-// @version      1.2.0
+// @version      1.2.1
 // @description  made by goat
 // @author       you
 // @run-at       document-idle
@@ -196,5 +196,6 @@
 // @match         *://esohasl.net/*
 // @match         *://rbscripts.net/*
 // @match         *://link.rbscripts.net/*
+// @require      https://raw.githubusercontent.com/ezz125/ezzuserscript/main/ezzuserscript2.js?nocache=20250817
 // @require      https://raw.githubusercontent.com/ezz125/ezzuserscript/main/ezzuserscript2.js
 // ==/UserScript==
