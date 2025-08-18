@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ezz premium
 // @namespace    premium
-// @version      1.2.1
+// @version      1.2.3
 // @description  made by goat
 // @author       you
 // @run-at       document-idle
